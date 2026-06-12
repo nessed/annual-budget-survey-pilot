@@ -1,7 +1,7 @@
 fiscal_year,expenditure_table,top_code,top_name,estimate,printed_top_total,sum_printed_children,difference_top_minus_children,child_count,status
-2026-27,current_capital,01,General Public Service,BE_prior,5787114,5587304,199810,2,known_artifact
-2026-27,current_capital,01,General Public Service,RE_prior,3607449,3442996,164453,2,known_artifact
-2026-27,current_capital,01,General Public Service,BE_current,6061282,5930990,130292,2,known_artifact
+2026-27,current_capital,01,General Public Service,BE_prior,5787114,5787114,0,3,exact
+2026-27,current_capital,01,General Public Service,RE_prior,3607449,3607449,0,3,exact
+2026-27,current_capital,01,General Public Service,BE_current,6061282,6061282,0,3,exact
 2026-27,current_revenue,01,General Public Service,BE_prior,12210851,12210850,1,8,rounding
 2026-27,current_revenue,01,General Public Service,RE_prior,10782451,10782453,-2,8,rounding
 2026-27,current_revenue,01,General Public Service,BE_current,12799647,12799647,0,8,exact

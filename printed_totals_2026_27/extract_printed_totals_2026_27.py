@@ -155,7 +155,7 @@ def extract_printed_rows(page, table: str, page_number: int, b1: float, b2: floa
 
 def process_pdf() -> tuple[list[dict], list[str]]:
     printed_rows: list[dict] = []
-    seen_keys: set[tuple[str, str]] = set()
+    row_instances: defaultdict[tuple[str, str], int] = defaultdict(int)
     section_bounds: dict[str, tuple[float, float]] = {}
     current_section = None
     seen_devcap = False
@@ -182,9 +182,8 @@ def process_pdf() -> tuple[list[dict], list[str]]:
                 continue
             for row in extract_printed_rows(page, current_section, page_number, b1, b2):
                 key = (row["expenditure_table"], row["code"])
-                if key in seen_keys:
-                    continue
-                seen_keys.add(key)
+                row_instances[key] += 1
+                row["row_instance"] = row_instances[key]
                 printed_rows.append(row)
     return printed_rows, log
 
@@ -247,6 +246,7 @@ def main() -> int:
         "expenditure_table",
         "page",
         "code",
+        "row_instance",
         "parent_code",
         "level",
         "printed_name",
