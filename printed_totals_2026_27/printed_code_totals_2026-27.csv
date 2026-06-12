@@ -1,0 +1,118 @@
+fiscal_year,expenditure_table,page,code,parent_code,level,printed_name,schema_name,BE_prior,RE_prior,BE_current
+2026-27,current_revenue,18,01,,1,General Public Service,General Public Services,12210851,10782451,12799647
+2026-27,current_revenue,18,011,01,2,Executive & Legislative Organs,"Executive & Legislative Organs, Financial & Fiscal Affairs, External Affairs",10397794,8861174,10326003
+2026-27,current_revenue,18,012,01,2,Foreign Economic Aid,Foreign Economic Aid,5793,5793,5203
+2026-27,current_revenue,18,014,01,2,Transfers,Transfers,1682477,1791068,2330690
+2026-27,current_revenue,18,015,01,2,General Services,General Services,23990,22404,25073
+2026-27,current_revenue,18,016,01,2,Basic Research,Basic Research,10229,9758,11080
+2026-27,current_revenue,18,017,01,2,Research & Dev. General Public,Research & Dev. General Public Services,30214,30088,33246
+2026-27,current_revenue,18,018,01,2,Admn. of General Public Service,Admn. of General Public Services,9869,10031,10578
+2026-27,current_revenue,18,019,01,2,Gen. Public Services not elsewhere,Gen. Public Services not elsewhere defined,50484,52137,57774
+2026-27,current_revenue,18,02,,1,Defence Affairs and Services,Defence Affairs and Services,2557950,2595715,3010900
+2026-27,current_revenue,18,021,02,2,Defence Services,Defence Services,2550000,2583968,3000000
+2026-27,current_revenue,18,A01,021,2,Employees Related Expenses,Employees Related Expenses,846032,851080,967548
+2026-27,current_revenue,18,A03,021,2,Operating Expenses,Operating Expenses,704399,721030,743462
+2026-27,current_revenue,18,A09,021,2,Physical Assets,Physical Assets,663077,663923,925833
+2026-27,current_revenue,18,A12,021,2,Civil Works,Civil Works,336492,347935,363158
+2026-27,current_revenue,18,025,02,2,Defence Administration,Defence Administration,7950,11747,10900
+2026-27,current_revenue,18,03,,1,Public Order and Safety Affairs,Public Order and Safety Affairs,351679,373317,389469
+2026-27,current_revenue,18,031,03,2,Law Courts,Law Courts,19380,21532,25756
+2026-27,current_revenue,18,032,03,2,Police & Civil Armed Forces,Police,321177,327670,350404
+2026-27,current_revenue,18,033,03,2,Fire Protection,Fire Protection,709,671,748
+2026-27,current_revenue,18,034,03,2,Prison Administration and Operation,Prison Administration Operation,181,167,187
+2026-27,current_revenue,18,035,03,2,R&D Public Order and Safety,R&D Public Order and Safety Affairs,98,195,104
+2026-27,current_revenue,18,036,03,2,Administration of Public Order,Administration of Public Order,10135,23082,12270
+2026-27,current_revenue,19,04,,1,Economic Affairs,Economic Affairs,242144,245222,238438
+2026-27,current_revenue,19,041,04,2,"Gen. Eco., Commercial & Labour","Gen. Eco., Commercial & Labour Affairs",117035,103642,110199
+2026-27,current_revenue,19,042,04,2,"Agri., Food, Irrigation, Forestry &","Agri., Food, Irrigation, Forestry & Fishing",33476,40645,33204
+2026-27,current_revenue,19,043,04,2,Fuel and Energy,Fuel and Energy,2397,2343,1360
+2026-27,current_revenue,19,044,04,2,Mining and Manufacturing,Mining and Manufacturing,7586,18888,10267
+2026-27,current_revenue,19,045,04,2,Construction and Transport,Construction and Transport,46228,44998,46405
+2026-27,current_revenue,19,046,04,2,Communications,Communications,33103,32369,34517
+2026-27,current_revenue,19,047,04,2,Other Industries,Other Industries,1525,1568,1527
+2026-27,current_revenue,19,048,04,2,Research & Development Economic,R&D and Other Expenditure Economic Affairs (Housing & Works),793,768,957
+2026-27,current_revenue,19,05,,1,Environment Protection,Environment Protection,3168,2740,2406
+2026-27,current_revenue,19,053,05,2,Pollution Abatement,Pollution Abatement,2155,1655,1155
+2026-27,current_revenue,19,055,05,2,Administration of Environment,Administration of Environment Protection Affairs,1013,1085,1251
+2026-27,current_revenue,19,06,,1,Housing and Community Amenities,Housing and Community Amenities,19249,12560,18570
+2026-27,current_revenue,19,061,06,2,Housing Development,Housing Development,1588,129,143
+2026-27,current_revenue,19,062,06,2,Community Development,Community Development,17661,12431,18427
+2026-27,current_revenue,19,07,,1,Health,Health,31975,60245,37438
+2026-27,current_revenue,19,071,07,2,"Medical Products, Appliances and","Medical Products, Appliances and Equipment",32,33,38
+2026-27,current_revenue,19,073,07,2,Hospital Services,Hospital Services,24035,24547,28779
+2026-27,current_revenue,19,074,07,2,Public Health Services,Public Health Services,1139,30813,1204
+2026-27,current_revenue,19,076,07,2,Health Administration,Health Administration,6768,4851,7417
+2026-27,current_revenue,20,08,,1,"Recreation, Culture and Religion","Recreation, Culture and Religion",22158,36317,23796
+2026-27,current_revenue,20,081,08,2,Recreational and Sporting Services,Recreation and Sporting Services,0,70,0
+2026-27,current_revenue,20,082,08,2,Cultural Services,Cultural Services,1503,1473,1591
+2026-27,current_revenue,20,083,08,2,Broadcasting and Publishing,Broadcasting and Publishing,16488,31074,17673
+2026-27,current_revenue,20,084,08,2,Religious Affairs,Religious Affairs,2094,2029,2204
+2026-27,current_revenue,20,086,08,2,"Admn. of Information, Recreation &","Admn. of Information, Recreation & Culture",2074,1671,2328
+2026-27,current_revenue,20,09,,1,Education Affairs and Services,Education Affairs and Services,112683,169026,117748
+2026-27,current_revenue,20,091,09,2,Pre-Primary and Primary Education,Pre-Primary and Primary Education Affairs and Services,5841,5904,6275
+2026-27,current_revenue,20,092,09,2,Secondary Education Affairs and,Secondary Education Affairs and Services,14420,14704,16015
+2026-27,current_revenue,20,093,09,2,Tertiary Education Affairs and,Tertiary Education Affairs and Services,82012,83569,84462
+2026-27,current_revenue,20,094,09,2,Education Services Not definable by,Education Services not Definable by Level,3738,4014,3878
+2026-27,current_revenue,20,095,09,2,Subsidiary Services to Education,Subsidiary Services to Education,392,406,410
+2026-27,current_revenue,20,096,09,2,Administration,Administration of Education,4825,4457,5224
+2026-27,current_revenue,20,097,09,2,Education Affairs & Services not,Education Affairs & Services not Elsewhere Classified,1455,55973,1484
+2026-27,current_revenue,20,10,,1,Social Protection,Social Protection,734187,728730,857007
+2026-27,current_revenue,20,107,10,2,Administration,Administration,5890,9555,4975
+2026-27,current_revenue,20,108,10,2,Others,Others,1303,1643,2556
+2026-27,current_revenue,20,109,10,2,Social Protection (Not elsewhere,Social Protection (Not elsewhere classified),726994,717532,849477
+2026-27,current_capital,21,01,,1,General Public Service,General Public Services,5787114,3607449,6061282
+2026-27,current_capital,21,011,01,2,Foreign Loan Repayment,"Executive & Legislative Organs, Financial & Fiscal Affairs, External Affairs",5472222,3326037,5836275
+2026-27,current_capital,21,014,01,2,Transfers,Transfers,115082,116959,94715
+2026-27,dev_revenue,22,01,,1,General Public Service,General Public Services,391839,313426,367805
+2026-27,dev_revenue,22,011,01,2,Executive & Legislative Organs,"Executive & Legislative Organs, Financial & Fiscal Affairs, External Affairs",10481,17830,13846
+2026-27,dev_revenue,22,014,01,2,Transfers,Transfers,331130,252384,294286
+2026-27,dev_revenue,22,015,01,2,General Services,General Services,29260,26749,36982
+2026-27,dev_revenue,22,016,01,2,Basic Research,Basic Research,19670,15708,22198
+2026-27,dev_revenue,22,017,01,2,Research & Dev. General Public,Research & Dev. General Public Services,921,463,160
+2026-27,dev_revenue,22,019,01,2,General Public Services not,Gen. Public Services not elsewhere defined,377,291,333
+2026-27,dev_revenue,22,02,,1,Defence Affairs and Services,Defence Affairs and Services,2720,2668,2961
+2026-27,dev_revenue,22,021,02,2,Military Defence,Defence Services,556,865,387
+2026-27,dev_revenue,22,024,02,2,R & D Defence,Survey of Pakistan,248,246,1054
+2026-27,dev_revenue,22,025,02,2,Defence Administration,Defence Administration,1916,1557,1520
+2026-27,dev_revenue,22,03,,1,Public Order and Safety Affairs,Public Order and Safety Affairs,2921,2103,5743
+2026-27,dev_revenue,22,031,03,2,Law Courts,Law Courts,1912,1583,2403
+2026-27,dev_revenue,22,032,03,2,Police and Civil Armed Forces,Police,986,497,3340
+2026-27,dev_revenue,22,036,03,2,Administration of Public Order,Administration of Public Order,23,23,0
+2026-27,dev_revenue,22,04,,1,Economic Affairs,Economic Affairs,105611,104589,79382
+2026-27,dev_revenue,22,041,04,2,Gen. Eco. Commercial and Labour,"Gen. Eco., Commercial & Labour Affairs",4058,1064,2563
+2026-27,dev_revenue,22,042,04,2,"A gri,, Food, Irrigation, Forestry &","Agri., Food, Irrigation, Forestry & Fishing",72162,69779,49629
+2026-27,dev_revenue,22,043,04,2,Fuel and Energy,Fuel and Energy,7009,13367,8451
+2026-27,dev_revenue,22,044,04,2,Mining and Manufacturing,Mining and Manufacturing,1105,420,761
+2026-27,dev_revenue,22,045,04,2,Construction and Transport,Construction and Transport,20325,17794,16965
+2026-27,dev_revenue,22,046,04,2,Communications,Communications,814,2066,449
+2026-27,dev_revenue,22,048,04,2,Research & Development Economic,R&D and Other Expenditure Economic Affairs (Housing & Works),138,99,564
+2026-27,dev_revenue,22,05,,1,Environment Protection,Environment Protection,2784,2292,2478
+2026-27,dev_revenue,22,055,05,2,Administration of Environment Protection,Administration of Environment Protection Affairs,2784,2292,2478
+2026-27,dev_revenue,22,06,,1,Housing and Community Amenities,Housing and Community Amenities,7977,6596,14189
+2026-27,dev_revenue,22,062,06,2,Community Development,Community Development,7971,6590,14189
+2026-27,dev_revenue,22,063,06,2,Water Supply,Water Supply,6,6,0
+2026-27,dev_revenue,23,07,,1,Health,Health,15102,13691,18217
+2026-27,dev_revenue,23,073,07,2,Hospital Services,Hospital Services,6107,6273,8690
+2026-27,dev_revenue,23,074,07,2,Public Health Services,Public Health Services,8700,7138,5962
+2026-27,dev_revenue,23,076,07,2,Health Administration,Health Administration,295,280,3565
+2026-27,dev_revenue,23,08,,1,"Recreation, Culture and Religion","Recreation, Culture and Religion",3697,2479,2822
+2026-27,dev_revenue,23,081,08,2,Recreation and Sporting Services,Recreation and Sporting Services,1180,1180,1851
+2026-27,dev_revenue,23,082,08,2,Cultural Services,Cultural Services,250,0,0
+2026-27,dev_revenue,23,083,08,2,Broadcasting and Publishing,Broadcasting and Publishing,1616,1249,659
+2026-27,dev_revenue,23,084,08,2,Religious Affairs,Religious Affairs,650,50,312
+2026-27,dev_revenue,23,09,,1,Education Affairs and Services,Education Affairs and Services,55824,52639,76381
+2026-27,dev_revenue,23,093,09,2,Tertiary Edu. Affairs & Services,Tertiary Education Affairs and Services,52175,50638,72059
+2026-27,dev_revenue,23,095,09,2,Subsidiary Services to Education,Subsidiary Services to Education,650,362,722
+2026-27,dev_revenue,23,096,09,2,Administration,Administration of Education,750,0,0
+2026-27,dev_revenue,23,097,09,2,Education Affairs & Services not,Education Affairs & Services not Elsewhere Classified,2249,1639,3600
+2026-27,dev_revenue,23,10,,1,Social Protection,Social Protection,2300,574,5317
+2026-27,dev_revenue,23,107,10,2,Administration,Administration,2300,574,5317
+2026-27,dev_capital,24,01,,1,General Public Service,General Public Services,1163036,1131537,1006723
+2026-27,dev_capital,24,014,01,2,Transfers,Transfers,1162275,1130776,1005388
+2026-27,dev_capital,24,017,01,2,Research and Dev. General Public,Research & Dev. General Public Services,761,761,1335
+2026-27,dev_capital,24,04,,1,Economic Affairs,Economic Affairs,21144,24268,25290
+2026-27,dev_capital,24,041,04,2,"Gen. Eco., Commercial and Labour","Gen. Eco., Commercial & Labour Affairs",719,368,312
+2026-27,dev_capital,24,043,04,2,Fuel and Energy,Fuel and Energy,0,244,0
+2026-27,dev_capital,24,044,04,2,Mining and Manufacturing,Mining and Manufacturing,1904,1714,6658
+2026-27,dev_capital,24,045,04,2,Construction and Transport,Construction and Transport,17280,21309,17821
+2026-27,dev_capital,24,046,04,2,Communications,Communications,1241,632,500
