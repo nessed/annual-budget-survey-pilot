@@ -1,0 +1,70 @@
+code,parent_code,level,name,expenditure_tables,first_year,last_year,2026-27_cur_rev_BE_prior,2026-27_cur_rev_RE_prior,2026-27_cur_rev_BE_current,2026-27_cur_cap_BE_prior,2026-27_cur_cap_RE_prior,2026-27_cur_cap_BE_current,2026-27_dev_rev_BE_prior,2026-27_dev_rev_RE_prior,2026-27_dev_rev_BE_current,2026-27_dev_cap_BE_prior,2026-27_dev_cap_RE_prior,2026-27_dev_cap_BE_current
+011,01,2,"Executive & Legislative Organs, Financial & Fiscal Affairs, External Affairs",current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2025-26,10397794,8861174,10326003,199810,164453,130292,10481,17830,13846,0,0,0
+012,01,2,Foreign Economic Aid,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,5793,5793,5203,0,0,0,0,0,0,0,0,0
+014,01,2,Transfers,current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2025-26,1682477,1791068,2330690,115082,116959,94715,331130,252384,294286,1162275,1130776,1005388
+015,01,2,General Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,23990,22404,25073,0,0,0,29260,26749,36982,0,0,0
+016,01,2,Basic Research,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,10229,9758,11080,0,0,0,19670,15708,22198,0,0,0
+017,01,2,Research & Dev. General Public Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,30214,30088,33246,0,0,0,921,463,160,761,761,1335
+018,01,2,Admn. of General Public Services,current_revenue; dev_capital,2010-11,2025-26,9869,10031,10578,0,0,0,0,0,0,0,0,0
+019,01,2,Gen. Public Services not elsewhere defined,current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2024-25,50484,52137,57774,0,0,0,377,291,333,0,0,0
+021,02,2,Defence Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,2550000,2583968,3000000,0,0,0,556,865,387,0,0,0
+A01,021,2,Employees Related Expenses,current_revenue; dev_capital,2010-11,2025-26,846032,851080,967548,0,0,0,0,0,0,0,0,0
+A02,021,2,Project Pre-investment Analysis,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A03,021,2,Operating Expenses,current_revenue; dev_capital,2010-11,2025-26,704399,721030,743462,0,0,0,0,0,0,0,0,0
+A04,021,2,Employees Retirement Benefits,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A05,021,2,"Grants, Subsidies & Write off Loans",dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A06,021,2,Transfers,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A07,021,2,Interest Payment,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A08,021,2,Loans Advances,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A09,021,2,Physical Assets,current_revenue; dev_capital,2010-11,2025-26,663077,663923,925833,0,0,0,0,0,0,0,0,0
+A11,021,2,Investments,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+A12,021,2,Civil Works,current_revenue; dev_capital,2010-11,2025-26,336492,347935,363158,0,0,0,0,0,0,0,0,0
+A13,021,2,Repairs & Maintenance,dev_capital,2010-11,2025-26,0,0,0,0,0,0,0,0,0,0,0,0
+024,02,2,Survey of Pakistan,dev_capital; dev_revenue,2013-14,2025-26,0,0,0,0,0,0,248,246,1054,0,0,0
+025,02,2,Defence Administration,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,7950,11747,10900,0,0,0,1916,1557,1520,0,0,0
+031,03,2,Law Courts,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,19380,21532,25756,0,0,0,1912,1583,2403,0,0,0
+032,03,2,Police,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,321177,327670,350404,0,0,0,986,497,3340,0,0,0
+033,03,2,Fire Protection,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,709,671,748,0,0,0,0,0,0,0,0,0
+034,03,2,Prison Administration Operation,current_revenue; dev_capital; dev_revenue,2010-11,2024-25,181,167,187,0,0,0,0,0,0,0,0,0
+035,03,2,R&D Public Order and Safety Affairs,current_revenue; dev_capital,2010-11,2025-26,98,195,104,0,0,0,0,0,0,0,0,0
+036,03,2,Administration of Public Order,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,10135,23082,12270,0,0,0,23,23,0,0,0,0
+041,04,2,"Gen. Eco., Commercial & Labour Affairs",current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2024-25,117035,103642,110199,0,0,0,4058,1064,2563,719,368,312
+042,04,2,"Agri., Food, Irrigation, Forestry & Fishing",current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2024-25,33476,40645,33204,0,0,0,72162,69779,49629,0,0,0
+043,04,2,Fuel and Energy,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,2397,2343,1360,0,0,0,7009,13367,8451,0,244,0
+044,04,2,Mining and Manufacturing,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,7586,18888,10267,0,0,0,1105,420,761,1904,1714,6658
+045,04,2,Construction and Transport,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,46228,44998,46405,0,0,0,20325,17794,16965,17280,21309,17821
+046,04,2,Communications,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,33103,32369,34517,0,0,0,814,2066,449,1241,632,500
+047,04,2,Other Industries,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,1525,1568,1527,0,0,0,0,0,0,0,0,0
+048,04,2,R&D and Other Expenditure Economic Affairs (Housing & Works),current_revenue; dev_capital; dev_revenue,2013-14,2024-25,793,768,957,0,0,0,138,99,564,0,0,0
+052,05,2,Waste Water Management,current_revenue; dev_capital,2010-11,2020-21,0,0,0,0,0,0,0,0,0,0,0,0
+053,05,2,Pollution Abatement,current_revenue; dev_capital,2013-14,2025-26,2155,1655,1155,0,0,0,0,0,0,0,0,0
+054,05,2,Other Expenditure of Industries,current_revenue; dev_capital,2013-14,2024-25,0,0,0,0,0,0,0,0,0,0,0,0
+055,05,2,Administration of Environment Protection Affairs,current_revenue; dev_capital; dev_revenue,2012-13,2024-25,1013,1085,1251,0,0,0,2784,2292,2478,0,0,0
+061,06,2,Housing Development,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,1588,129,143,0,0,0,0,0,0,0,0,0
+062,06,2,Community Development,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,17661,12431,18427,0,0,0,7971,6590,14189,0,0,0
+063,06,2,Water Supply,dev_capital; dev_revenue,2010-11,2025-26,0,0,0,0,0,0,6,6,0,0,0,0
+071,07,2,"Medical Products, Appliances and Equipment",current_revenue; dev_capital,2010-11,2023-24,32,33,38,0,0,0,0,0,0,0,0,0
+072,07,2,Out-Patient Services,dev_capital; dev_revenue,2010-11,2020-21,0,0,0,0,0,0,0,0,0,0,0,0
+073,07,2,Hospital Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,24035,24547,28779,0,0,0,6107,6273,0,0,0,0
+074,07,2,Public Health Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,1139,30813,1204,0,0,0,8700,7138,5962,0,0,0
+075,07,2,R&D Health,current_revenue; dev_capital; dev_revenue,2010-11,2021-22,0,0,0,0,0,0,0,0,0,0,0,0
+076,07,2,Health Administration,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,6768,4851,7417,0,0,0,295,280,3565,0,0,0
+081,08,2,Recreation and Sporting Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,0,70,0,0,0,0,1180,1180,1851,0,0,0
+082,08,2,Cultural Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,1503,1473,1591,0,0,0,250,0,0,0,0,0
+083,08,2,Broadcasting and Publishing,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,16488,31074,17673,0,0,0,1616,1249,659,0,0,0
+084,08,2,Religious Affairs,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,2094,2029,2204,0,0,0,650,50,312,0,0,0
+086,08,2,"Admn. of Information, Recreation & Culture",current_revenue; dev_capital,2010-11,2024-25,2074,1671,2328,0,0,0,0,0,0,0,0,0
+091,09,2,Pre-Primary and Primary Education Affairs and Services,current_revenue; dev_capital; dev_revenue,2010-11,2023-24,5841,5904,6275,0,0,0,0,0,0,0,0,0
+092,09,2,Secondary Education Affairs and Services,current_revenue; dev_capital; dev_revenue,2010-11,2024-25,14420,14704,16015,0,0,0,0,0,0,0,0,0
+093,09,2,Tertiary Education Affairs and Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,82012,83569,84462,0,0,0,52175,50638,72059,0,0,0
+094,09,2,Education Services not Definable by Level,current_revenue; dev_capital,2010-11,2024-25,3738,4014,3878,0,0,0,0,0,0,0,0,0
+095,09,2,Subsidiary Services to Education,current_revenue; dev_capital; dev_revenue,2010-11,2024-25,392,406,410,0,0,0,650,362,722,0,0,0
+096,09,2,Administration of Education,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,4825,4457,5224,0,0,0,750,0,0,0,0,0
+097,09,2,Education Affairs & Services not Elsewhere Classified,current_revenue; dev_capital; dev_revenue,2010-11,2023-24,1455,55973,1484,0,0,0,2249,1639,3600,0,0,0
+100,10,2,Frontier Regions,dev_capital,2010-11,2022-23,0,0,0,0,0,0,0,0,0,0,0,0
+101,10,2,Federally Administered Tribal Areas,dev_capital,2010-11,2022-23,0,0,0,0,0,0,0,0,0,0,0,0
+102,10,2,Maintenance Allowances to Ex-Rulers,dev_capital,2011-12,2024-25,0,0,0,0,0,0,0,0,0,0,0,0
+103,10,2,Afghan Refugees,dev_capital,2010-11,2022-23,0,0,0,0,0,0,0,0,0,0,0,0
+107,10,2,Administration,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,5890,9555,4975,0,0,0,2300,574,5317,0,0,0
+108,10,2,Others,current_revenue; dev_capital; dev_revenue,2010-11,2025-26,1303,1643,2556,0,0,0,0,0,0,0,0,0
+109,10,2,Social Protection (Not elsewhere classified),current_revenue; dev_capital; dev_revenue,2010-11,2025-26,726994,717532,849477,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,80 @@
+code,parent_code,level,name,expenditure_tables,first_year,last_year
+01,,1,General Public Services,current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+011,01,2,"Executive & Legislative Organs, Financial & Fiscal Affairs, External Affairs",current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+012,01,2,Foreign Economic Aid,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+014,01,2,Transfers,current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+015,01,2,General Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+016,01,2,Basic Research,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+017,01,2,Research & Dev. General Public Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+018,01,2,Admn. of General Public Services,current_revenue; dev_capital,2010-11,2025-26
+019,01,2,Gen. Public Services not elsewhere defined,current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2024-25
+02,,1,Defence Affairs and Services,current_revenue; dev_revenue,2010-11,2025-26
+021,02,2,Defence Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+A01,021,2,Employees Related Expenses,current_revenue; dev_capital,2010-11,2025-26
+A02,021,2,Project Pre-investment Analysis,dev_capital,2010-11,2025-26
+A03,021,2,Operating Expenses,current_revenue; dev_capital,2010-11,2025-26
+A04,021,2,Employees Retirement Benefits,dev_capital,2010-11,2025-26
+A05,021,2,"Grants, Subsidies & Write off Loans",dev_capital,2010-11,2025-26
+A06,021,2,Transfers,dev_capital,2010-11,2025-26
+A07,021,2,Interest Payment,dev_capital,2010-11,2025-26
+A08,021,2,Loans Advances,dev_capital,2010-11,2025-26
+A09,021,2,Physical Assets,current_revenue; dev_capital,2010-11,2025-26
+A11,021,2,Investments,dev_capital,2010-11,2025-26
+A12,021,2,Civil Works,current_revenue; dev_capital,2010-11,2025-26
+A13,021,2,Repairs & Maintenance,dev_capital,2010-11,2025-26
+024,02,2,Survey of Pakistan,dev_capital; dev_revenue,2013-14,2025-26
+025,02,2,Defence Administration,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+03,,1,Public Order and Safety Affairs,current_revenue; dev_revenue,2010-11,2025-26
+031,03,2,Law Courts,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+032,03,2,Police,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+033,03,2,Fire Protection,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+034,03,2,Prison Administration Operation,current_revenue; dev_capital; dev_revenue,2010-11,2024-25
+035,03,2,R&D Public Order and Safety Affairs,current_revenue; dev_capital,2010-11,2025-26
+036,03,2,Administration of Public Order,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+04,,1,Economic Affairs,current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+041,04,2,"Gen. Eco., Commercial & Labour Affairs",current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2024-25
+042,04,2,"Agri., Food, Irrigation, Forestry & Fishing",current_capital; current_revenue; dev_capital; dev_revenue,2010-11,2024-25
+043,04,2,Fuel and Energy,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+044,04,2,Mining and Manufacturing,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+045,04,2,Construction and Transport,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+046,04,2,Communications,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+047,04,2,Other Industries,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+048,04,2,R&D and Other Expenditure Economic Affairs (Housing & Works),current_revenue; dev_capital; dev_revenue,2013-14,2024-25
+05,,1,Environment Protection,current_revenue; dev_revenue,2010-11,2025-26
+052,05,2,Waste Water Management,current_revenue; dev_capital,2010-11,2020-21
+053,05,2,Pollution Abatement,current_revenue; dev_capital,2013-14,2025-26
+054,05,2,Other Expenditure of Industries,current_revenue; dev_capital,2013-14,2024-25
+055,05,2,Administration of Environment Protection Affairs,current_revenue; dev_capital; dev_revenue,2012-13,2024-25
+06,,1,Housing and Community Amenities,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+061,06,2,Housing Development,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+062,06,2,Community Development,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+063,06,2,Water Supply,dev_capital; dev_revenue,2010-11,2025-26
+07,,1,Health,current_revenue; dev_revenue,2010-11,2025-26
+071,07,2,"Medical Products, Appliances and Equipment",current_revenue; dev_capital,2010-11,2023-24
+072,07,2,Out-Patient Services,dev_capital; dev_revenue,2010-11,2020-21
+073,07,2,Hospital Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+074,07,2,Public Health Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+075,07,2,R&D Health,current_revenue; dev_capital; dev_revenue,2010-11,2021-22
+076,07,2,Health Administration,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+08,,1,"Recreation, Culture and Religion",current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+081,08,2,Recreation and Sporting Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+082,08,2,Cultural Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+083,08,2,Broadcasting and Publishing,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+084,08,2,Religious Affairs,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+086,08,2,"Admn. of Information, Recreation & Culture",current_revenue; dev_capital,2010-11,2024-25
+09,,1,Education Affairs and Services,current_revenue; dev_revenue,2010-11,2025-26
+091,09,2,Pre-Primary and Primary Education Affairs and Services,current_revenue; dev_capital; dev_revenue,2010-11,2023-24
+092,09,2,Secondary Education Affairs and Services,current_revenue; dev_capital; dev_revenue,2010-11,2024-25
+093,09,2,Tertiary Education Affairs and Services,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+094,09,2,Education Services not Definable by Level,current_revenue; dev_capital,2010-11,2024-25
+095,09,2,Subsidiary Services to Education,current_revenue; dev_capital; dev_revenue,2010-11,2024-25
+096,09,2,Administration of Education,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+097,09,2,Education Affairs & Services not Elsewhere Classified,current_revenue; dev_capital; dev_revenue,2010-11,2023-24
+10,,1,Social Protection,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+100,10,2,Frontier Regions,dev_capital,2010-11,2022-23
+101,10,2,Federally Administered Tribal Areas,dev_capital,2010-11,2022-23
+102,10,2,Maintenance Allowances to Ex-Rulers,dev_capital,2011-12,2024-25
+103,10,2,Afghan Refugees,dev_capital,2010-11,2022-23
+107,10,2,Administration,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+108,10,2,Others,current_revenue; dev_capital; dev_revenue,2010-11,2025-26
+109,10,2,Social Protection (Not elsewhere classified),current_revenue; dev_capital; dev_revenue,2010-11,2025-26
